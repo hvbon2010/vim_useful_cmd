@@ -16,6 +16,18 @@ Press Esc to exit edit
 :q
 ```
 
+# Unsave file and not quit
+```
+Press Esc to exit edit
+:e!
+```
+
+# Unsave file and quit
+```
+Press Esc to exit edit
+:q!
+```
+
 # Search a keyword in file
 ```
 \<keyword>
