@@ -33,7 +33,7 @@ Press Esc to exit edit
 
 # Quit file and go back to current openning folder
 ```
-:Ex
+:Ex (With E is uppercase)
 ```
 
 # Delete a line
@@ -56,6 +56,6 @@ dd
 # Change file name
 `
 navigate to file in folder
-`R`
+Use R key (uppercase letter)
 Change file name and enter
 `
