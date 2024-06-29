@@ -54,8 +54,8 @@ dd
 ```
 
 # Change file name
-`
+```
 navigate to file in folder
-Use R key (uppercase letter)
+Use `R` key (uppercase letter)
 Change file name and enter
-`
+```
