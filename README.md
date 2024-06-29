@@ -46,3 +46,9 @@ dd
 ```
 :<linenumber>
 ```
+
+# Show/Unshow line number
+```
+:set number
+:set nonumber
+```
