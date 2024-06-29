@@ -52,3 +52,10 @@ dd
 :set number
 :set nonumber
 ```
+
+# Change file name
+`
+navigate to file in folder
+`R`
+Change file name and enter
+`
